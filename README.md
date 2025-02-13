@@ -1,2 +1,2 @@
 # Reference-Genome-Tutorial
-Teaching ourselves how to do de novo reference genome assembly and annotation
+*De novo* reference genome assembly is challenging, especially using new long-read ONT technology. From past experience, there is no one size fits all solution. The purpose of this repository is not to provided a perfect pipeline for reference genome, but instead some 'working out' to help refine pipeline development and experiment with genome assembly tools and annotation. In general we have followed the excellent DeNovoAssemblyTools pipeline (https://github.com/MatthewHiggins2017/DenovoAssemblyTools/tree/main/NF), but with a few (or perhaps many) caveats along the way. 
